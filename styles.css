@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #calendar {
+    margin: 20px auto;
+  }
+  
+  #registration-form {
+    max-width: 400px;
+    margin: 0 auto;
+    text-align: left;
+  }
+  
+  #registration-form label {
+    display: block;
+    margin-top: 10px;
+  }
+  
+  #registration-form input,
+  #registration-form textarea {
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+  }
+  
+  #registration-form button {
+    margin-top: 10px;
+  }
